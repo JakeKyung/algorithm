@@ -14,7 +14,6 @@ for ($i = 0; $i <$count; $i++) {
 
 rsort($money_list);
 $min_count = 0;
-$current_price = 0;
 
 foreach ($money_list as $money) {
     $rest = $price/$money; // 나눈값
