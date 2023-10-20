@@ -1,2 +1,3 @@
 # algorithm
-algorithm
+***
+## 백준알고리즘, 프로그래머스 등 코딩 문제
